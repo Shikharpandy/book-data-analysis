@@ -67,4 +67,4 @@ To analyze how factors like author rating, genre, and sale price influence book 
 ## 🧰 How to Run the Project
 1. Clone this repository  
    ```bash
-   git clone https://github.com/<shikharpandy>/book-data-analysis.git
+   git clone (https://github.com/Shikharpandy/book-data-analysis)
